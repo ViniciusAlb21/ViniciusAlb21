@@ -1,7 +1,7 @@
 
 # 👨🏻‍💻 Vinicius Fideles
 
-Me chamo Vinicius Albuquerque Fideles, tenho 22 anos e sou de São Paulo. Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Senac. Este espaço reúne alguns dos meus projetos e atividades desenvolvidas ao longo da minha trajetória. Sinta-se à vontade para explorar os repositórios e acompanhar minhas atualizações.
+Me chamo Vinicius Albuquerque Fideles, tenho 23 anos e sou de São Paulo. Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Senac. Este espaço reúne alguns dos meus projetos e atividades desenvolvidas ao longo da minha trajetória. Sinta-se à vontade para explorar os repositórios e acompanhar minhas atualizações.
 
 <a href="https://github.com/ViniciusAlb21?tab=repositories&sort=stargazers">
         <img
